@@ -1,0 +1,29 @@
+{
+  "name": "owlmusic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.1.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^6",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "devDependencies": {
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6",
+    "next-auth": "^4.3.4",
+    "react-icons": "^4.4.0",
+    "react-spotify-web-playback": "^0.9.2",
+    "recoil": "^0.7.3",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
